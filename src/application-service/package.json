@@ -2,6 +2,9 @@
   "name": "application-service",
   "version": "1.0.0",
   "type": "module",
+  "exports": {
+    "./module/task-application-service": "./task-application-service.js"
+  },
   "dependencies": {
     "domain": "1.0.0"
   }

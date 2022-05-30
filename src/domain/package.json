@@ -1,5 +1,9 @@
 {
   "name": "domain",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "exports": {
+    "./module/task": "./task.js",
+    "./module/task-repository": "./task-repository.js"
+  }
 }

@@ -1,5 +1,5 @@
 import TaskMapper from "./task-mapper.js";
-import TaskRepository from "../domain/task-repository.js";
+import TaskRepository from "domain/module/task-repository";
 
 export class  TaskApplicationService {
 
