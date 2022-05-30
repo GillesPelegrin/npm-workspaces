@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# generate output
+/dist
+
+# Intellij setup
+*/.idea/workspace.xml
+*/.idea/tasks.xml
